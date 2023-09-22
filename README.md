@@ -135,8 +135,8 @@ Output:
 ## COMMAND 15: find - Search for Files and Directories
 ``````
 Syntax:
-	find [path] [expression]
-Code: 
+	find [path] [expressions]
+Code: S
 	find /home/user -name '*.txt'
 Output: 
 	Finds all .txt files under /home/user.
